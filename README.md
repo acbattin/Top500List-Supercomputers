@@ -13,3 +13,9 @@ We confirm our formatting changes for the .csv file created by create and read .
 <p align="center">
 <img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="500" height="250"/>
 </p>
+
+# Examine and explain the relationship between Cores and Power
+Using Python, we generate the following scatterplot using the lablist.csv dataset we generated using the TOP500 website to visualize the relationship between the number of cores and the relative power of the supercomputer.
+<p align="center">
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter1.png?raw=true" width="500" height="500"/>
+</p>
