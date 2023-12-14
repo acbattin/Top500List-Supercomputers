@@ -23,3 +23,10 @@ We now tranform data with log function in Python and use these results to genera
 <p align="center">
 <img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter2.png?raw=true" width="600" height="500"/>
 </p>
+Examine relationship between cores and power based on their log values.
+We remove all missing values and run a correlation coefficient test on the data. Our Console output was as follows: Our rsquared value is 0.6075 which indicates that 60.75% of the observed variation in Power is described by the model.
+
+Calculate line of best fit and create scatterplot
+<p align="center">
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/BestFit.png?raw=true" width="600" height="500"/>
+</p>
