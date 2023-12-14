@@ -8,7 +8,7 @@ Using the BeautifulSoup screen-scraper library, create a .csv file of all 500 su
 * Using Python, Beautiful Soup for screen-scraping, and other related libraries, successfully create a .csv file for the 500 supercomputers as of November 2021 called “lablist.csv” using the TOP500 website
 * Create and read .csv file for top 500 supercomputers
 
-# Clean and display the dataset; that is, remove any unwanted characters from the numeric data items
+# Clean and display the dataset
 We confirm our formatting changes for the .csv file created by create and read .csv file for top 500 supercomputers into our environment and confirm formatting changes by checking the summary statistics
 <p align="center">
 <img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="500" height="250"/>
@@ -18,4 +18,8 @@ We confirm our formatting changes for the .csv file created by create and read .
 Using Python, we generate the following scatterplot using the lablist.csv dataset we generated using the TOP500 website to visualize the relationship between the number of cores and the relative power of the supercomputer.
 <p align="center">
 <img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter1.png?raw=true" width="600" height="500"/>
+</p>
+We now tranform data with log function in Python and use these results to generate a scatterplot using their log values.
+<p align="center">
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter2.png?raw=true" width="600" height="500"/>
 </p>
