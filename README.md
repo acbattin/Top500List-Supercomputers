@@ -11,5 +11,5 @@ Using the BeautifulSoup screen-scraper library, create a .csv file of all 500 su
 # Clean and display the dataset; that is, remove any unwanted characters from the numeric data items
 We confirm our formatting changes for the .csv file created by create and read .csv file for top 500 supercomputers into our environment and confirm formatting changes by checking the summary statistics
 <p align="center">
-<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="500" height="400"/>
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="400" height="400"/>
 </p>
