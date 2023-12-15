@@ -34,5 +34,5 @@ Calculate line of best fit and create scatterplot
 # Requirements for a Hypothetical 1.5 𝐸𝑥𝑎𝐹𝐿𝑂𝑃 system
 Using the mean values of Rmax and Power we determine the requirements for a 1.5 exaflop supercomputer.
 <p align="center">
-<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/ExaflopOutput.png?raw=true" width="400" height="200"/>
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/ExaflopOutput.png?raw=true" width="400" height="100"/>
 </p>
