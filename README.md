@@ -21,14 +21,14 @@ Using Python, we generate the following scatterplot using the lablist.csv datase
 </p>
 We now tranform data with log function in Python and use these results to generate a scatterplot using their log values.
 <p align="center">
-<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter2.png?raw=true" width="600" height="500"/>
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/CoresvsPowerScatter2.png?raw=true" width="800" height="500"/>
 </p>
 Examine relationship between cores and power based on their log values.
 We remove all missing values and run a correlation coefficient test on the data. Our Console output was as follows: Our rsquared value is 0.6075 which indicates that 60.75% of the observed variation in Power is described by the model.
 
 Calculate line of best fit and create scatterplot
 <p align="center">
-<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/BestFit.png?raw=true" width="600" height="500"/>
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/BestFit.png?raw=true" width="800" height="500"/>
 </p>
 
 # Requirements for a Hypothetical 1.5 ExaFLOPs system
