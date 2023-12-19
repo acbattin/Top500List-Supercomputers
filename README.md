@@ -11,7 +11,7 @@ Using the BeautifulSoup screen-scraper library, create a .csv file of all 500 su
 # Clean and display the dataset
 We confirm our formatting changes for the .csv file created by create and read .csv file for top 500 supercomputers into our environment and confirm formatting changes by checking the summary statistics
 <p align="center">
-<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="500" height="250"/>
+<img src="https://github.com/acbattin/Top500List-Supercomputers/blob/main/SummaryOutput.png?raw=true" width="500" height="200"/>
 </p>
 
 # Examine and explain the relationship between Cores and Power
