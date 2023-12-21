@@ -173,7 +173,6 @@ plt.xlabel('Cores')
 plt.ylabel('Power')
 plt.show()
 
-# BONUS RESPONSE
 # Use the mean values of Rmax and Power to determine the requirements for a
 # 1.5 exaflop supercomputer.
 rmaxmean = df['Rmax (PFlop/s)'].mean()
