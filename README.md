@@ -1,5 +1,5 @@
 # Top500List-Supercomputers
-Using the BeautifulSoup screen-scraper library, create a .csv file of all 500 supercomputers listed at https://top500.org/lists/top500/2021/11/. Using the Top500 dataset created previously, explore that dataset. Examine and explain the relationship between cores and Power.
+Using the BeautifulSoup screen-scraper library, create a .csv file of all 500 supercomputers listed at https://top500.org/lists/top500/2021/11/. Explore the Top 500 List of supercomputers .csv file. Examine and explain the relationship between cores and Power.
 * Code Author: Andie Battin
 * Last Update: 12/14/2023
 
