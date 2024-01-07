@@ -182,7 +182,6 @@ x = 1500 / rmaxmean
 exaPower = powermean * x
 exaCores = df['Cores'].mean() * x
 
-print('\nBonus Response - See Working Code for calculations')
 print('The number of cores required for a 1.5 exaflop supercomputer is:',
       exaCores)
 print('The power required for a 1.5 exaflop supercomputer is: ',exaPower,' kW')
