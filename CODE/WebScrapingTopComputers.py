@@ -65,7 +65,7 @@ print(df.describe().round(1))
 
 '''
 Import the data. See here that the data being imported is the .csv file I coded
-coded & saved for Part 2A of this lab (Mod 4, Lab 2). In Part 2A, I installed 
+coded in the first part. In this second part, I read the .csv file
 and used specialized libraries such as BeautifulSoup to scrape information from 
 the web, specifically from the pages containing the TOP500 List Report from 
 November 2021, and created a .csv file containing the records for the top 500 
